@@ -1,0 +1,197 @@
+[
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1566959532706,
+            "changeTime": 1566959532706,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1566959532706,
+            "changeTime": 1566959532706,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1566961465894,
+            "changeTime": 1566961465894,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1566959532706,
+            "changeTime": 1566959532706,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1566961465918,
+            "changeTime": 1566961465918,
+            "contentHash": "3b084fde2a3eb2d6f0e3666ebede4cdcf5caac15",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/classes/abcd.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/classes/abcd.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 62,
+            "modifiedTime": 1566961465917,
+            "changeTime": 1566961465917,
+            "contentHash": "822f74b3f75bd119b8890a6c6ec5ceb8d34a4ffa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/classes/abcd.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/classes/abcd.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 182,
+            "modifiedTime": 1566961465918,
+            "changeTime": 1566961465918,
+            "contentHash": "84a981438a4331faaa70979b3f126c961c43104d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1566961384220,
+            "changeTime": 1566961384220,
+            "contentHash": "fe22201b15cd2db2f740c940b5bc813efdd4c22a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/firstLwc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/firstLwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1566961384221,
+            "changeTime": 1566961384221,
+            "contentHash": "240a2840e5a220580cf863931b9018515c887967",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/firstLwc/firstLwc.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/firstLwc/firstLwc.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 27,
+            "modifiedTime": 1566961384222,
+            "changeTime": 1566961384222,
+            "contentHash": "f77f405276fce2c457b8423303ffccb5a455abce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/firstLwc/firstLwc.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/firstLwc/firstLwc.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 98,
+            "modifiedTime": 1566961384221,
+            "changeTime": 1566961384221,
+            "contentHash": "cb5e9287e951044fd85888e2b53c0db2cfdb5115",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/firstLwc/firstLwc.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/firstLwc/firstLwc.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1566961384221,
+            "changeTime": 1566961384221,
+            "contentHash": "ae08ebf57f0cda8c77bffd9b159e1cecba746a9e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1566959922044,
+            "changeTime": 1566959922044,
+            "contentHash": "a7d454fe909d506d8431a20d8d3eace6ce89fd91",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
