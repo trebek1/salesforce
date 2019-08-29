@@ -14,6 +14,15 @@
             ],
             "c/sampleCalculator": [
                 "sampleCalculator/sampleCalculator.js"
+            ],
+            "c/bmiCalculator": [
+                "bmiCalculator/bmiCalculator.js"
+            ],
+            "c/meetingRoom": [
+                "meetingRoom/meetingRoom.js"
+            ],
+            "c/meetingRooms": [
+                "meetingRooms/meetingRooms.js"
             ]
         }
     },

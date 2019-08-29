@@ -109,10 +109,10 @@
         {
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1567055472943,
-            "changeTime": 1567055472943,
-            "contentHash": "25819d653ce4fa9d9fb55991d7002c1488e0b420",
+            "size": 320,
+            "modifiedTime": 1567066323465,
+            "changeTime": 1567066323465,
+            "contentHash": "6e8e5ab40c0256e4b43a90953efa7c6f2ab9afa5",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -340,10 +340,10 @@
         {
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/sampleCalculator/sampleCalculator.html",
             "isDirectory": false,
-            "size": 3479,
-            "modifiedTime": 1567058160105,
-            "changeTime": 1567058160105,
-            "contentHash": "8ac6c6b5b22f55540762787d3fad9c15ce2d2e23",
+            "size": 3480,
+            "modifiedTime": 1567058332118,
+            "changeTime": 1567058332118,
+            "contentHash": "60317fb18461d96619ba0dcbdee0c6ab71b28b84",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -351,14 +351,14 @@
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/sampleCalculator/sampleCalculator.js",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/sampleCalculator/sampleCalculator.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1989,
             "modifiedTime": 1567058243613,
             "changeTime": 1567058243613,
-            "contentHash": "ca1d3f018c15d745dba8ef2430d0abd81e333437"
+            "contentHash": "ca1d3f018c15d745dba8ef2430d0abd81e333437",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -370,6 +370,58 @@
             "modifiedTime": 1567055499296,
             "changeTime": 1567055499296,
             "contentHash": "0fc3113c704838e2e8244a6afbca712c39100ecf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/bmiCalculator",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/bmiCalculator",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1567066323466,
+            "changeTime": 1567066323466,
+            "contentHash": "144b74ab40b5fde9b3a3898704a54ca87f8a9afb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/bmiCalculator/bmiCalculator.html",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/bmiCalculator/bmiCalculator.html",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1567066440079,
+            "changeTime": 1567066440079,
+            "contentHash": "8098b7a1f26161e1ba0946b148318904e75592b1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/bmiCalculator/bmiCalculator.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/bmiCalculator/bmiCalculator.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 270,
+            "modifiedTime": 1567066595235,
+            "changeTime": 1567066595235,
+            "contentHash": "8bfec6e506631523d06e1dfb77eaa6d11a8010f5"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/bmiCalculator/bmiCalculator.js-meta.xml",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/bmiCalculator/bmiCalculator.js-meta.xml",
+            "isDirectory": false,
+            "size": 392,
+            "modifiedTime": 1567066485640,
+            "changeTime": 1567066485640,
+            "contentHash": "affdf95cf838d5a12251a7d886df7319a310d4c2",
             "isMetadataFile": true,
             "state": "u"
         }
