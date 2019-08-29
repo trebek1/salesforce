@@ -1,3 +1,17 @@
+/* Do not use ID selector in LWC it will be changed */
+
 .hello-world {
-  color: red;
+    color: red;
+}
+
+.greeting-class {
+    color: green;
+}
+
+div {
+    background: red;
+}
+
+:host {
+    border: 10px solid yellow;
 }

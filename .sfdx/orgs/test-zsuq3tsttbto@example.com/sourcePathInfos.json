@@ -109,10 +109,10 @@
         {
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc",
             "isDirectory": true,
-            "size": 224,
-            "modifiedTime": 1566965672649,
-            "changeTime": 1566965672649,
-            "contentHash": "3308f48f6f2f3bb4e99b0ddd329688d23859dc62",
+            "size": 256,
+            "modifiedTime": 1567054154749,
+            "changeTime": 1567054154749,
+            "contentHash": "41c025fde1395e4a3fdc405b03581b25c2a31655",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -181,15 +181,15 @@
     [
         "/Users/merlin/code/salesforce/LWC_Sessions",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 416,
             "modifiedTime": 1567053173899,
             "changeTime": 1567053173899,
-            "isWorkspace": true,
-            "contentHash": "66dbd5c208b108d17fd32c7814481b01d9b2a08f"
+            "contentHash": "66dbd5c208b108d17fd32c7814481b01d9b2a08f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -223,10 +223,10 @@
         {
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/helloWorld/helloWorld.css",
             "isDirectory": false,
-            "size": 31,
-            "modifiedTime": 1566965840396,
-            "changeTime": 1566965840396,
-            "contentHash": "a027904d5c1d967a64d7eae10fc3c7eed0c5c963",
+            "size": 200,
+            "modifiedTime": 1567054127852,
+            "changeTime": 1567054127852,
+            "contentHash": "1a5cab14ed8b3d6eb83574cf04e21ee4a6cc88a3",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -234,27 +234,27 @@
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/helloWorld/helloWorld.html",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/helloWorld/helloWorld.html",
             "isDirectory": false,
+            "size": 277,
+            "modifiedTime": 1567054113682,
+            "changeTime": 1567053547952,
+            "contentHash": "784d3f38710b1002351ad8d1e2a14d3898243bb5",
             "isMetadataFile": false,
-            "size": 254,
-            "modifiedTime": 1567053241565,
-            "changeTime": 1567053241565,
-            "contentHash": "87422e8d50b5c529fcaedaf20cc5387388dd4e3a"
+            "state": "u"
         }
     ],
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/helloWorld/helloWorld.js",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/helloWorld/helloWorld.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 258,
             "modifiedTime": 1567053307548,
             "changeTime": 1567053307548,
-            "contentHash": "79fde5a18adaf48da542d59bdc51b1c19c568abe"
+            "contentHash": "79fde5a18adaf48da542d59bdc51b1c19c568abe",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -266,6 +266,58 @@
             "modifiedTime": 1566970203973,
             "changeTime": 1566970203973,
             "contentHash": "73e211f34bf1aebb8177a1ea3effbc73d74428f3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/conditionalRenderingExample",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/conditionalRenderingExample",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1567054154751,
+            "changeTime": 1567054154751,
+            "contentHash": "263f441d3db53814131c695c903a9518546d6b1b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/conditionalRenderingExample/conditionalRenderingExample.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/conditionalRenderingExample/conditionalRenderingExample.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 530,
+            "modifiedTime": 1567054880856,
+            "changeTime": 1567054880856,
+            "contentHash": "0f8144df51cba47f9967ab994fe2ab97726c54dc"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/conditionalRenderingExample/conditionalRenderingExample.js",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/conditionalRenderingExample/conditionalRenderingExample.js",
+            "isDirectory": false,
+            "size": 336,
+            "modifiedTime": 1567054642750,
+            "changeTime": 1567054642750,
+            "contentHash": "826404eaa665a3c6df2e9ffac00cecc17ae2677c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/conditionalRenderingExample/conditionalRenderingExample.js-meta.xml",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/conditionalRenderingExample/conditionalRenderingExample.js-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1567054432382,
+            "changeTime": 1567054432382,
+            "contentHash": "cb039069b7339585aaa04298546d58b1f5ffae7d",
             "isMetadataFile": true,
             "state": "u"
         }
