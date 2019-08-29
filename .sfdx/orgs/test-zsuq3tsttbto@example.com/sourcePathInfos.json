@@ -109,10 +109,10 @@
         {
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc",
             "isDirectory": true,
-            "size": 448,
-            "modifiedTime": 1567094259267,
-            "changeTime": 1567094259267,
-            "contentHash": "1e065d33f7dfb3519eb8264962a02d84f742c60e",
+            "size": 480,
+            "modifiedTime": 1567097680362,
+            "changeTime": 1567097680362,
+            "contentHash": "be87bf872b96c7d384bcfa4b396f6d771310e4bd",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -587,10 +587,10 @@
         {
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodChild/publicMethodChild.js",
             "isDirectory": false,
-            "size": 705,
-            "modifiedTime": 1567096736019,
-            "changeTime": 1567096425310,
-            "contentHash": "2c032623ac74c3fd76db20749492da5509843006",
+            "size": 703,
+            "modifiedTime": 1567097100777,
+            "changeTime": 1567097100777,
+            "contentHash": "61e43c632fb4ca04f1f1ec21c01060454f9fd39b",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -624,14 +624,14 @@
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodParent/publicMethodParent.js",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodParent/publicMethodParent.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 499,
             "modifiedTime": 1567096731199,
             "changeTime": 1567096731199,
-            "contentHash": "9ccc5d620dfcd531f9528c9720c241f7eb5e46f4"
+            "contentHash": "9ccc5d620dfcd531f9528c9720c241f7eb5e46f4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -645,6 +645,58 @@
             "contentHash": "865a419149615bfd2fb8ae424774bb51575315e6",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/lifecycleDemo",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/lifecycleDemo",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1567097680363,
+            "changeTime": 1567097680363,
+            "contentHash": "213571ff46583baef2f201c37c5b8a4eceb3385d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/lifecycleDemo/lifecycleDemo.html",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/lifecycleDemo/lifecycleDemo.html",
+            "isDirectory": false,
+            "size": 52,
+            "modifiedTime": 1567097802618,
+            "changeTime": 1567097802618,
+            "contentHash": "2d976fa37aad302efceee42d9194ad6fd1df6cc8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/lifecycleDemo/lifecycleDemo.js",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/lifecycleDemo/lifecycleDemo.js",
+            "isDirectory": false,
+            "size": 448,
+            "modifiedTime": 1567097767704,
+            "changeTime": 1567097767704,
+            "contentHash": "7c7ffd47103514876124a5e6cd9b4444dfe8c927",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/lifecycleDemo/lifecycleDemo.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/lifecycleDemo/lifecycleDemo.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 392,
+            "modifiedTime": 1567097831483,
+            "changeTime": 1567097831483,
+            "contentHash": "33c0fdc165a2579ca66db5b5335e5cafc80bfc9c"
         }
     ]
 ]
