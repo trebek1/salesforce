@@ -109,10 +109,10 @@
         {
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc",
             "isDirectory": true,
-            "size": 320,
-            "modifiedTime": 1567066323465,
-            "changeTime": 1567066323465,
-            "contentHash": "6e8e5ab40c0256e4b43a90953efa7c6f2ab9afa5",
+            "size": 384,
+            "modifiedTime": 1567067355620,
+            "changeTime": 1567067355620,
+            "contentHash": "25761ab84eec6992523f7772bc948e7230030772",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -403,14 +403,14 @@
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/bmiCalculator/bmiCalculator.js",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/bmiCalculator/bmiCalculator.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 270,
             "modifiedTime": 1567066595235,
             "changeTime": 1567066595235,
-            "contentHash": "8bfec6e506631523d06e1dfb77eaa6d11a8010f5"
+            "contentHash": "8bfec6e506631523d06e1dfb77eaa6d11a8010f5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -422,6 +422,123 @@
             "modifiedTime": 1567066485640,
             "changeTime": 1567066485640,
             "contentHash": "affdf95cf838d5a12251a7d886df7319a310d4c2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRoom",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRoom",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1567067642080,
+            "changeTime": 1567067642080,
+            "contentHash": "0402acb38db3ac53e985610ada5613821182eba2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1567067355621,
+            "changeTime": 1567067355621,
+            "contentHash": "8f46facbaf704a1873346380ce513958a5172f90",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRoom/meetingRoom.css",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRoom/meetingRoom.css",
+            "isDirectory": false,
+            "size": 114,
+            "modifiedTime": 1567067643741,
+            "changeTime": 1567067643741,
+            "contentHash": "78abf070910718dfbd3824a52ed1bc3d0f7eb2e1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRoom/meetingRoom.html",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRoom/meetingRoom.html",
+            "isDirectory": false,
+            "size": 140,
+            "modifiedTime": 1567092745161,
+            "changeTime": 1567092745161,
+            "contentHash": "280c28e4dfdc78e48908b71437604d1ff0125ce0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRoom/meetingRoom.js",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRoom/meetingRoom.js",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1567092690218,
+            "changeTime": 1567092690218,
+            "contentHash": "f7f9e18958ba5e85d7d4faeb37f837765348bfa4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRoom/meetingRoom.js-meta.xml",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRoom/meetingRoom.js-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1567067114656,
+            "changeTime": 1567067114656,
+            "contentHash": "b920e67aec207fe541fd9896c52007594cfdb68b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms/meetingRooms.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms/meetingRooms.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 796,
+            "modifiedTime": 1567093578800,
+            "changeTime": 1567093578800,
+            "contentHash": "bfe6d022b0130cdc36fbf37326e00ee9640038c9"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms/meetingRooms.js",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms/meetingRooms.js",
+            "isDirectory": false,
+            "size": 615,
+            "modifiedTime": 1567067467546,
+            "changeTime": 1567067467546,
+            "contentHash": "31e1daa4890c5139510900a656d9fb27182c90b0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms/meetingRooms.js-meta.xml",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms/meetingRooms.js-meta.xml",
+            "isDirectory": false,
+            "size": 357,
+            "modifiedTime": 1567067504016,
+            "changeTime": 1567067504016,
+            "contentHash": "87eb87406b0f8780fe737c3c3007ff8148d9fb39",
             "isMetadataFile": true,
             "state": "u"
         }

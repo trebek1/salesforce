@@ -3,10 +3,17 @@
         <ul>
             <template for:each={meetingRooms} for:item="room">
                 <li key={room.roomNmae}>
-                    <c-meeting-room
-                        meeting-room-info={room}
-                        style="padding: 10px"
-                    ></c-meeting-room>
+                    <c-meeting-room style="padding: 10px">
+                        <div>abacadabra</div>
+                        <lightning-tile label={room.roomName} slot="roomInfo">
+                            <p class="slds-truncate" title={room.roomCapacity}>
+                                Room Capacity: ${room.roomCapacity}
+                            </p>
+                        </lightning-tile>
+                        <div>Extra</div>
+                        <div>four loco</div>
+                        <div>asdfasdfadsf</div>
+                    </c-meeting-room>
                 </li>
             </template>
         </ul>
