@@ -1,0 +1,52 @@
+<template>
+    <lightning-card title="simple calculator" icon-naame="standard:formula">
+        <lightning-layout multiple-rows>
+            <lightning-layout-item size="12" padding="around-medium">
+                <lightning-input
+                    type="number"
+                    name="firstNumber"
+                    onchange={numberChangeHandler}
+                ></lightning-input>
+            </lightning-layout-item>
+            <lightning-layout-item size="12" padding="around-medium">
+                <lightning-input
+                    type="number"
+                    name="secondNumber"
+                    onchange={numberChangeHandler}
+                ></lightning-input>
+            </lightning-layout-item>
+            <lightning-layout-item size="12" padding="around-medium">
+                <lightning-button-group>
+                    <lightning-button
+                        icon-name="utility:add"
+                        icon-position="right"
+                        label="Add"
+                        onclick={addHandler}
+                    ></lightning-button>
+                    <lightning-button
+                        icon-name="utility:dash"
+                        icon-position="right"
+                        label="Subtract"
+                        onclick={subtractHandler}
+                    ></lightning-button>
+                    <lightning-button
+                        icon-name="utility:close"
+                        icon-position="right"
+                        label="Multiply"
+                        onclick={multiplyHandler}
+                    ></lightning-button>
+                    <lightning-button
+                        icon-name="utility:magicwand"
+                        icon-position="right"
+                        label="Divide"
+                        onclick={divideHandler}
+                    ></lightning-button>
+                </lightning-button-group>
+            </lightning-layout-item>
+            <lightning-layout-item size="12" padding="around-medium">
+                <lightning-formatted-text value={currentResult}>
+                </lightning-formatted-text>
+            </lightning-layout-item>
+        </lightning-layout>
+    </lightning-card>
+</template>

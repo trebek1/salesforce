@@ -11,6 +11,9 @@
             ],
             "c/conditionalRenderingExample": [
                 "conditionalRenderingExample/conditionalRenderingExample.js"
+            ],
+            "c/sampleCalculator": [
+                "sampleCalculator/sampleCalculator.js"
             ]
         }
     },
