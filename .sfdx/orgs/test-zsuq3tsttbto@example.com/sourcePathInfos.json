@@ -109,10 +109,10 @@
         {
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc",
             "isDirectory": true,
-            "size": 384,
-            "modifiedTime": 1567067355620,
-            "changeTime": 1567067355620,
-            "contentHash": "25761ab84eec6992523f7772bc948e7230030772",
+            "size": 448,
+            "modifiedTime": 1567094259267,
+            "changeTime": 1567094259267,
+            "contentHash": "1e065d33f7dfb3519eb8264962a02d84f742c60e",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -507,14 +507,14 @@
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms/meetingRooms.html",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms/meetingRooms.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 844,
             "modifiedTime": 1567093611173,
             "changeTime": 1567093611173,
-            "contentHash": "4fcbd958f71b71e1d1c7ed218735bc25bc5fc038"
+            "contentHash": "4fcbd958f71b71e1d1c7ed218735bc25bc5fc038",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -539,6 +539,110 @@
             "modifiedTime": 1567067504016,
             "changeTime": 1567067504016,
             "contentHash": "87eb87406b0f8780fe737c3c3007ff8148d9fb39",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodChild",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodChild",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1567093812669,
+            "changeTime": 1567093812669,
+            "contentHash": "cc2f6b836b4c7c5d3a73d859b9a396896149893a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodParent",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodParent",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1567094259268,
+            "changeTime": 1567094259268,
+            "contentHash": "9152162c8460a747fccd5acdb2f4f62391a97a33",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodChild/publicMethodChild.html",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodChild/publicMethodChild.html",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1567094010679,
+            "changeTime": 1567094010679,
+            "contentHash": "310f5f9144fe5478a732175262061844f9aebe3b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodChild/publicMethodChild.js",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodChild/publicMethodChild.js",
+            "isDirectory": false,
+            "size": 705,
+            "modifiedTime": 1567096736019,
+            "changeTime": 1567096425310,
+            "contentHash": "2c032623ac74c3fd76db20749492da5509843006",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodChild/publicMethodChild.js-meta.xml",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodChild/publicMethodChild.js-meta.xml",
+            "isDirectory": false,
+            "size": 362,
+            "modifiedTime": 1567094586466,
+            "changeTime": 1567094586466,
+            "contentHash": "2192a5a6a02f7066ad8ac15afcd34e0d7d2b5af5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodParent/publicMethodParent.html",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodParent/publicMethodParent.html",
+            "isDirectory": false,
+            "size": 445,
+            "modifiedTime": 1567095627256,
+            "changeTime": 1567095145907,
+            "contentHash": "9d30592ccb7cab433cebf89cb1ab42c5ced474ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodParent/publicMethodParent.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodParent/publicMethodParent.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 499,
+            "modifiedTime": 1567096731199,
+            "changeTime": 1567096731199,
+            "contentHash": "9ccc5d620dfcd531f9528c9720c241f7eb5e46f4"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodParent/publicMethodParent.js-meta.xml",
+        {
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/publicMethodParent/publicMethodParent.js-meta.xml",
+            "isDirectory": false,
+            "size": 363,
+            "modifiedTime": 1567094590265,
+            "changeTime": 1567094590265,
+            "contentHash": "865a419149615bfd2fb8ae424774bb51575315e6",
             "isMetadataFile": true,
             "state": "u"
         }

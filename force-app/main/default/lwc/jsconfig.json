@@ -23,6 +23,12 @@
             ],
             "c/sampleCalculator": [
                 "sampleCalculator/sampleCalculator.js"
+            ],
+            "c/publicMethodChild": [
+                "publicMethodChild/publicMethodChild.js"
+            ],
+            "c/publicMethodParent": [
+                "publicMethodParent/publicMethodParent.js"
             ]
         }
     },
