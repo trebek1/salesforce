@@ -5,7 +5,13 @@ export default class SampleCalculator extends LightningElement {
     secondNumber;
 
     @track
+    previousResults = [];
+
+    @track
     currentResult;
+
+    @track
+    showPreviousResults = false;
 
     numberChangeHandler(event) {
         const { name, value } = event.target;
@@ -21,6 +27,7 @@ export default class SampleCalculator extends LightningElement {
         const secondNumber = parseInt(this.secondNumber, 10);
         this.currentResult = `Result of ${firstNumber} + ${secondNumber} is ${firstNumber +
             secondNumber};`;
+        this.previousResults = [...this.previousResults, this.currentResult];
     }
 
     subtractHandler() {
@@ -28,6 +35,7 @@ export default class SampleCalculator extends LightningElement {
         const secondNumber = parseInt(this.secondNumber, 10);
         this.currentResult = `Result of ${firstNumber} - ${secondNumber} is ${firstNumber -
             secondNumber};`;
+        this.previousResults = [...this.previousResults, this.currentResult];
     }
 
     multiplyHandler() {
@@ -35,6 +43,7 @@ export default class SampleCalculator extends LightningElement {
         const secondNumber = parseInt(this.secondNumber, 10);
         this.currentResult = `Result of ${firstNumber} * ${secondNumber} is ${firstNumber *
             secondNumber};`;
+        this.previousResults = [...this.previousResults, this.currentResult];
     }
 
     divideHandler() {
@@ -42,5 +51,10 @@ export default class SampleCalculator extends LightningElement {
         const secondNumber = parseInt(this.secondNumber, 10);
         this.currentResult = `Result of ${firstNumber} % ${secondNumber} is ${firstNumber /
             secondNumber};`;
+        this.previousResults = [...this.previousResults, this.currentResult];
+    }
+
+    showPreviousResult() {
+        this.showPreviousResults = !this.showPreviousResults;
     }
 }

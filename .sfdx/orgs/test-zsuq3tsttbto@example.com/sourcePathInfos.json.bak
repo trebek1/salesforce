@@ -338,14 +338,14 @@
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/sampleCalculator/sampleCalculator.html",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/sampleCalculator/sampleCalculator.html",
             "isDirectory": false,
+            "size": 3479,
+            "modifiedTime": 1567058160105,
+            "changeTime": 1567058160105,
+            "contentHash": "8ac6c6b5b22f55540762787d3fad9c15ce2d2e23",
             "isMetadataFile": false,
-            "size": 2249,
-            "modifiedTime": 1567056939273,
-            "changeTime": 1567056939273,
-            "contentHash": "e0ff91aa2df0d7d5a0bc6165b4ff529ab8656e31"
+            "state": "u"
         }
     ],
     [
@@ -355,10 +355,10 @@
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/sampleCalculator/sampleCalculator.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1498,
-            "modifiedTime": 1567056889969,
-            "changeTime": 1567056889969,
-            "contentHash": "0fff0820d896422db8ace5a677a7b732738e856e"
+            "size": 1989,
+            "modifiedTime": 1567058243613,
+            "changeTime": 1567058243613,
+            "contentHash": "ca1d3f018c15d745dba8ef2430d0abd81e333437"
         }
     ],
     [
