@@ -32,6 +32,12 @@
             ],
             "c/sampleCalculator": [
                 "sampleCalculator/sampleCalculator.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ],
+            "c/selectedMeetingRoom": [
+                "selectedMeetingRoom/selectedMeetingRoom.js"
             ]
         }
     },

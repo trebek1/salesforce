@@ -1,4 +1,6 @@
-import { LightningElement, api } from 'lwc';
+import { LightningElement, api, wire } from 'lwc';
+import { fireEvent } from 'c/pubsub';
+import { CurrentPageReference } from 'lightning/navigation';
 
 export default class MeetingRoom extends LightningElement {
     // can only update api values from paraent.
@@ -7,11 +9,15 @@ export default class MeetingRoom extends LightningElement {
     @api
     meetingRoomInfo;
 
+    @wire(CurrentPageReference)
+    pageReference;
+
     tileClickHandler() {
         const tileClicked = new CustomEvent('tileclick', {
             detail: this.meetingRoomInfo,
             bubbles: true
         });
         this.dispatchEvent(tileClicked);
+        fireEvent(this.pageReference, 'pubsubtileclick', this.meetingRoomInfo);
     }
 }
