@@ -485,10 +485,10 @@
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRoom/meetingRoom.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 433,
-            "modifiedTime": 1567833502252,
-            "changeTime": 1567833502252,
-            "contentHash": "b93038d4b7da5222430c356bc62a726a9c4569ce"
+            "size": 460,
+            "modifiedTime": 1567836598741,
+            "changeTime": 1567836598741,
+            "contentHash": "cc15096b27fb03d4845a9e4e48d1e299755587d8"
         }
     ],
     [
@@ -507,27 +507,27 @@
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms/meetingRooms.html",
         {
+            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms/meetingRooms.html",
             "isDirectory": false,
-            "size": 1151,
-            "modifiedTime": 1567833037531,
-            "changeTime": 1567832912265,
-            "contentHash": "6b875963f13f3a2f5d527a1b217864146d766073",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 1093,
+            "modifiedTime": 1567836591197,
+            "changeTime": 1567836591197,
+            "contentHash": "c3cb474fc201a53a6f512fd0812fc5998b7f2ec2"
         }
     ],
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms/meetingRooms.js",
         {
+            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/meetingRooms/meetingRooms.js",
             "isDirectory": false,
-            "size": 933,
-            "modifiedTime": 1567832845600,
-            "changeTime": 1567832845600,
-            "contentHash": "4b5b47defa666add5ef2b10e451ef5ff9ac6033a",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 940,
+            "modifiedTime": 1567836586230,
+            "changeTime": 1567836586230,
+            "contentHash": "fb5a624d4709d4a25916b23a4d09677c6a560c65"
         }
     ],
     [

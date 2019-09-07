@@ -30,8 +30,12 @@ export default class MeetingRooms extends LightningElement {
             roomCapacity: 113
         }
     ];
-    onTileSelectHandler(event) {
+    onTileSelectHandler = event => {
         const meetingRoomInfo = event.detail;
         this.selectedMeetingRoomInfo = meetingRoomInfo.roomName;
+    };
+    constructor() {
+        super();
+        this.template.addEventListener('tileclick', this.onTileSelectHandler);
     }
 }

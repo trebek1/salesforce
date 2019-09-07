@@ -7,7 +7,6 @@
             <template for:each={meetingRooms} for:item="room">
                 <li key={room.roomNmae}>
                     <c-meeting-room
-                        ontileclick={onTileSelectHandler}
                         style="padding: 10px"
                         meeting-room-info={room}
                     >
