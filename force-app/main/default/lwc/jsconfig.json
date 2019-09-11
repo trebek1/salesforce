@@ -30,14 +30,17 @@
             "c/publicMethodParent": [
                 "publicMethodParent/publicMethodParent.js"
             ],
-            "c/sampleCalculator": [
-                "sampleCalculator/sampleCalculator.js"
-            ],
             "c/pubsub": [
                 "pubsub/pubsub.js"
             ],
+            "c/sampleCalculator": [
+                "sampleCalculator/sampleCalculator.js"
+            ],
             "c/selectedMeetingRoom": [
                 "selectedMeetingRoom/selectedMeetingRoom.js"
+            ],
+            "c/accountManagerLDS": [
+                "accountManagerLDS/accountManagerLDS.js"
             ]
         }
     },
