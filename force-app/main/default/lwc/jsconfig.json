@@ -44,6 +44,9 @@
             ],
             "c/accountManagerLDSForms": [
                 "accountManagerLDSForms/accountManagerLDSForms.js"
+            ],
+            "c/accountRecordForm": [
+                "accountRecordForm/accountRecordForm.js"
             ]
         }
     },

@@ -109,11 +109,11 @@
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 640,
-            "modifiedTime": 1568262734415,
-            "changeTime": 1568262734415,
+            "size": 672,
+            "modifiedTime": 1568264111442,
+            "changeTime": 1568264111442,
             "isWorkspace": false,
-            "contentHash": "a46cf61f8d234f5bcf8010873e90b891593ccb38"
+            "contentHash": "4cc886f84a0b03419744dee3fce3deabd1dcf5a8"
         }
     ],
     [
@@ -843,53 +843,105 @@
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1568262734416,
             "changeTime": 1568262734416,
-            "contentHash": "5eb912c4ce90a97a53b0a7c115ab3456b5a960d2"
+            "contentHash": "5eb912c4ce90a97a53b0a7c115ab3456b5a960d2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms/accountManagerLDSForms.html",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms/accountManagerLDSForms.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2428,
             "modifiedTime": 1568263444036,
             "changeTime": 1568263444036,
-            "contentHash": "3680133c2876888a515ac5c394b28a02bfe20d5b"
+            "contentHash": "3680133c2876888a515ac5c394b28a02bfe20d5b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms/accountManagerLDSForms.js",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms/accountManagerLDSForms.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 222,
             "modifiedTime": 1568263250138,
             "changeTime": 1568263250138,
-            "contentHash": "42e176bb7df2f253df61f92787b9ef8f95954fc7"
+            "contentHash": "42e176bb7df2f253df61f92787b9ef8f95954fc7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms/accountManagerLDSForms.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms/accountManagerLDSForms.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 310,
             "modifiedTime": 1568262781293,
             "changeTime": 1568262781293,
-            "contentHash": "5f4ea3ece831b16046f3aa3154da7f18b74699e6"
+            "contentHash": "5f4ea3ece831b16046f3aa3154da7f18b74699e6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountRecordForm",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountRecordForm",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1568264111443,
+            "changeTime": 1568264111443,
+            "contentHash": "8fa4d989994e4c85d24757bf64ffa54594d5ca40"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountRecordForm/accountRecordForm.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountRecordForm/accountRecordForm.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 447,
+            "modifiedTime": 1568264380144,
+            "changeTime": 1568264380144,
+            "contentHash": "2a75a45d8a1993262899e2bd78732d41c0f9565a"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountRecordForm/accountRecordForm.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountRecordForm/accountRecordForm.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 260,
+            "modifiedTime": 1568264468472,
+            "changeTime": 1568264468472,
+            "contentHash": "52c83790915c12782d7f8f8a350c92eb0c4a0ebb"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountRecordForm/accountRecordForm.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountRecordForm/accountRecordForm.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 305,
+            "modifiedTime": 1568264164613,
+            "changeTime": 1568264164613,
+            "contentHash": "ff3db7f4e10556ea3c2dcbb302460705dbed95ae"
         }
     ]
 ]
