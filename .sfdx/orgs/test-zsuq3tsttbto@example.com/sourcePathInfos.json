@@ -105,15 +105,15 @@
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc",
         {
+            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc",
             "isDirectory": true,
-            "size": 608,
-            "modifiedTime": 1568176287940,
-            "changeTime": 1568176287940,
-            "contentHash": "429872fcf76e6f1b66a379d4162d56d2fc9f3fe3",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 640,
+            "modifiedTime": 1568262734415,
+            "changeTime": 1568262734415,
+            "isWorkspace": false,
+            "contentHash": "a46cf61f8d234f5bcf8010873e90b891593ccb38"
         }
     ],
     [
@@ -817,14 +817,14 @@
     [
         "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDS/accountManagerLDS.js",
         {
-            "state": "u",
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDS/accountManagerLDS.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1827,
             "modifiedTime": 1568180309491,
             "changeTime": 1568180309491,
-            "contentHash": "e1eba7eb4270585fd8883cdab02ab034ebdd701d"
+            "contentHash": "e1eba7eb4270585fd8883cdab02ab034ebdd701d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -838,6 +838,58 @@
             "contentHash": "126b47a6ce77e792a732a1deb99340b4a2505af8",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1568262734416,
+            "changeTime": 1568262734416,
+            "contentHash": "5eb912c4ce90a97a53b0a7c115ab3456b5a960d2"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms/accountManagerLDSForms.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms/accountManagerLDSForms.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2428,
+            "modifiedTime": 1568263444036,
+            "changeTime": 1568263444036,
+            "contentHash": "3680133c2876888a515ac5c394b28a02bfe20d5b"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms/accountManagerLDSForms.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms/accountManagerLDSForms.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 222,
+            "modifiedTime": 1568263250138,
+            "changeTime": 1568263250138,
+            "contentHash": "42e176bb7df2f253df61f92787b9ef8f95954fc7"
+        }
+    ],
+    [
+        "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms/accountManagerLDSForms.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDSForms/accountManagerLDSForms.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1568262781293,
+            "changeTime": 1568262781293,
+            "contentHash": "5f4ea3ece831b16046f3aa3154da7f18b74699e6"
         }
     ]
 ]

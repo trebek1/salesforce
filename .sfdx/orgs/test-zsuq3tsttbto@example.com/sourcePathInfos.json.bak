@@ -821,10 +821,10 @@
             "sourcePath": "/Users/merlin/code/salesforce/LWC_Sessions/force-app/main/default/lwc/accountManagerLDS/accountManagerLDS.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1819,
-            "modifiedTime": 1568180192362,
-            "changeTime": 1568180192362,
-            "contentHash": "31a2189ee2bcb05e6b377a5ba98fef4aa0bf1cfc"
+            "size": 1827,
+            "modifiedTime": 1568180309491,
+            "changeTime": 1568180309491,
+            "contentHash": "e1eba7eb4270585fd8883cdab02ab034ebdd701d"
         }
     ],
     [
